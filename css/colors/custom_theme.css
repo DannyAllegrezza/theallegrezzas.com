@@ -1,0 +1,143 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #1a237e;
+}
+a {
+    color: #FF8C89;
+}
+a:hover, a:active {
+    color: #FF8C89;
+}
+#page-content blockquote {
+    border-left: 3px solid #FF8C89;
+}
+.bgcolor {
+    background-color: #FF8C89;
+}
+span.fill {
+    background-color: #FF8C89;
+}
+a.button.fill {
+    background: #FF8C89;
+}
+.timeline .column.heart:after {
+    color: #FF8C89;
+}
+.timeline-year span {
+    background-color: #1a237e;
+}
+.loaderOverlay i {
+    color: #FF8C89;
+}
+#logo {
+    color: #3f51b5;
+}
+#main-menu nav#navigation a:hover, #main-menu nav#navigation a.active {
+    color: #FF8C89;
+}
+#navigation-dotted ul li a:before{
+    background: #FF8C89;
+}
+#navigation-dotted ul li a span {
+    background: #FF8C89;
+}
+#navigation-dotted ul li a span:after {
+    border-color: transparent transparent transparent #FF8C89;
+}
+#invitation a {
+    background: #FF8C89;
+}
+.social ul li a:hover {
+    color: #FF8C89;
+}
+.box a:hover {
+    color: #FF8C89;
+}
+.box .date:before {
+    color: #bdbdbd;
+}
+#twitter .follow:hover {
+    color: #FF8C89;
+}
+.small-box .amount {
+    color: #FF8C89;
+}
+.small-box .donate:hover {
+    color: #FF8C89;
+}
+#instagram-section .hash {
+    color: #FF8C89;
+}
+.form input[type="submit"] {
+    color: #FF8C89;
+}
+.form input[type="submit"].color {
+    background-color: #FF8C89;
+}
+.form input[type="submit"].color:hover {
+    background-color: #FF8C89;
+}
+.form .column:after {
+    color: #FF8C89;
+}
+footer .logo span {
+    color: #bdbdbd;
+}
+#back-home {
+    background: #FF8C89;
+}
+.prev:hover:before,.next:hover:after {
+    color: #FF8C89;
+}
+.content p:first-child:first-letter {
+    color: #FF8C89;
+}
+#comments h3.section-title span {
+    color: #FF8C89;
+}
+#back-to-top {
+    background: #FF8C89;
+}
+#menu-toggle {
+    background: #FF8C89;
+}
+#menu-toggle:before {
+    background: #FF8C89;
+}
+.pattern, #wedding-events .timeline .column.heart:after {
+    background-color: #f1f3f5;
+}
+.box.pattern {
+    background-color: rgba(255, 255, 255, 0.97);
+    background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(255, 255, 255, 0.4);
+}
+#gallery-wrapper .block .portfolio-hover, #gallery-wrapper .block .video-hover {
+    background: rgba(255, 140, 137, 0.7);
+}
+.overlay {
+    background: rgba(255, 119, 120, 0.45);
+}
+#wedding-events h2 {
+    font-size: 23px;
+}
+
+#gift-registry .section-tagline {
+    margin-bottom: 30px;
+}
+
+#gift-registry {
+    padding: 150px 0 50px 0;
+}
+#invitation{
+    background-color: #f1f3f5;
+}
+
+#flower-bearer{
+    padding-top: 50px;
+}
+
+@media (max-width: 668px) {
+    .box.pattern {
+    background-color: rgba(255, 255, 255, 0.97);
+    }
+}
