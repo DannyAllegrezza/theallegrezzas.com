@@ -18,7 +18,7 @@
     ================================================== -->
     <link rel="stylesheet" href="css/grid.css" media="all">
     <link rel="stylesheet" href="css/magnific-popup.css" media="all">
-    <script src="https://use.fontawesome.com/9fa6bd2b1a.js"></script>
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/animate.min.css" media="all">
     <link rel="stylesheet" href="css/flaticon.css" media="all">
     <link rel="stylesheet" href="css/style.css" media="all">

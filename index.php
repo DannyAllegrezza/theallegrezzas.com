@@ -15,6 +15,7 @@
             <span>Welcome to The Allegrezzas.com!</span>
         </section>
         <!-- #Welcome Area -->
+
         <!-- Couple Images -->
         <?php include("includes/couple.php"); ?>
         <!-- #Couple Images Ends -->
@@ -81,7 +82,6 @@
     <script src="js/jquery.mb.YTPlayer.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/wow.min.js"></script>
-    <script src="js/retina.min.js"></script>
     <script src="js/jquery.soc-share.js"></script>
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXXqQOtxHDi6iatz5Fm1VGzsVvV5HiDfU&sensor=false"></script>
