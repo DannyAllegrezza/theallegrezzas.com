@@ -302,9 +302,8 @@ span.fill {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(25, 25, 25, 0.16);
+    background: rgba(25, 25, 25, 0.20);
     /* browsers */
-    
     filter: progid: DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#7c000000', endColorstr='#7c000000');
     /* IE */
 }
@@ -699,6 +698,7 @@ a.button i {
     margin: 10px 0;
     color: #fff;
     font-size: 94px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 .hero #countdown:before {
     position: absolute;
@@ -712,7 +712,7 @@ a.button i {
 }
 .hero #countdown:after {
     position: absolute;
-    content: 'â—';
+    content: '';
     top: -39px;
     font-size: 21px;
     left: 50%;
@@ -728,6 +728,7 @@ a.button i {
     left: 0;
     right: 0;
     font-weight: 100;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 .hero #countdown span {
     font-family: 'Playfair Display', serif;
@@ -744,9 +745,9 @@ a.button i {
     font-family: 'Playfair Display', serif;
     font-style: italic;
     text-align: center;
-    font-size: 18px;
     color: #fff;
     letter-spacing: 1px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 .hero-inner .mouse {
     display: block;
@@ -1261,6 +1262,7 @@ a.button i {
     font-size: 64px;
     text-transform: uppercase;
     letter-spacing: 10px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 #couple .images .column .lname {
     color: #fff;
@@ -1269,6 +1271,7 @@ a.button i {
     text-transform: uppercase;
     font-weight: 100;
     right: 80px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 #couple .images .column > span.lname {
     top: 220px;
@@ -1554,7 +1557,7 @@ a.button i {
 }
 .details:after {
     position: absolute;
-    content: 'â—';
+    content: '';
     color: #c9ac67;
     top: -38px;
     font-size: 16px;
@@ -2433,7 +2436,7 @@ header.fixed {
 }
 .baby .hero-inner .date:after {
     position: absolute;
-    content: 'â—';
+    content: '';
     color: #fff;
     top: -52px;
     font-size: 16px;

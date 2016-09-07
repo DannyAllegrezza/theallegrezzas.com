@@ -5,18 +5,18 @@
                     <div id="menu-logo">C <span>&amp;</span> D</div>
                     <nav id="navigation" class="column twelve">
                         <ul>
-                            <li><a href="#logo"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a></li>
-                            <li><a href="#couple">Our Story</a></li>
-                            <li class="submenu"><a href="#important-people">Wedding Info</a>
+                            <li><a href="#logo" title="Home"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a></li>
+                            <li><a href="#couple" title="Our Story">Our Story</a></li>
+                            <li class="submenu"><a href="#important-people" title="All the information you need to know about our December 10th wedding!">Wedding Info</a>
                                 <ul>
-                                    <li><a href="#wedding-events">Itinerary</a></li>
-                                    <li><a href="#attire">Attire</a></li>
-                                    <li><a href="#important-people">Wedding Party</a></li>
-                                    <li><a href="#map-section">Accommodations</a></li>
+                                    <li><a href="#wedding-events" title="Wedding day itinerary">Itinerary</a></li>
+                                    <li><a href="#attire" title="Attire">Attire</a></li>
+                                    <li><a href="#important-people" title="Wedding Party">Wedding Party</a></li>
+                                    <li><a href="#map-section" title="Map and Accommodations">Accommodations</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#wedding-gallery">Gallery</a></li>
-                            <li><a href="#gift-registry">Registry</a></li>
+                            <li><a href="#wedding-gallery" title="Gallery">Gallery</a></li>
+                            <li><a href="#registry" title="Registry">Registry</a></li>
                         </ul>
                     </nav>
                     <a href="#" id="menu-toggle-wrapper">

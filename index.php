@@ -10,27 +10,13 @@
     <?php include("includes/hero.php"); ?>
     <!-- #Hero Section Ends -->
     <section id="home-content" class="top-menu">
-        <!-- RSVP Now -->
+        <!-- Welcome Area -->
         <section id="invitation" class="pattern">
             <span>Welcome to The Allegrezzas.com!</span>
-
         </section>
-        <!-- #RSVP Now -->
+        <!-- #Welcome Area -->
         <!-- Couple Images -->
-        <section id="couple">
-            <div class="overlay-dark"></div>
-            <div class="hero-heart"></div>
-            <div class="images">
-                <div class="column six girl">
-                    <span class="fname">Caitlin</span>
-                    <span class="lname">Bingham</span>
-                </div>
-                <div class="column six boy">
-                    <span class="fname">Danny</span>
-                    <span class="lname">Allegrezza</span>
-                </div>
-            </div>
-        </section>
+        <?php include("includes/couple.php"); ?>
         <!-- #Couple Images Ends -->
 
         <!-- Story Section -->
@@ -67,22 +53,7 @@
         <!-- #Small Gallery Section Ends -->
 
         <!-- Gift Registry Section -->
-        <section id="gift-registry" >
-            <header class="section-header">
-                <h3 class="section-title">Gift Registry</h3>
-                <p class="section-tagline">Click on the icon below to view our <a href="https://www.honeyfund.com/wedding/TheAllegrezzas" target="_blank">Honeyfund</a> registry.</p>
-            </header>
-            <div class="container">
-                <ul class="small-box corner">
-                    <li>
-                        <a target="blank" class="product" href="https://www.honeyfund.com/wedding/TheAllegrezzas"><img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/logo/logo_xl_r.png" alt=""></a>
-                        <div class="corners-topleft"></div>
-                        <div class="corners-bottomleft"></div>
-                        <div class="corners-topright"></div>
-                        <div class="corners-bottomright"></div>
-                    </li>
-            </div>
-        </section>
+        <?php include("includes/registry.php"); ?>
         <!-- #Gift Registry Section Ends -->
 
         <!-- Footer Section -->
