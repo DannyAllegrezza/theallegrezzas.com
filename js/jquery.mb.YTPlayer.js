@@ -103,8 +103,6 @@ function onYouTubePlayerAPIReady() {
 			ytLogo: "Y"
 		},
 		rasterImg      : "images/raster.png",
-		rasterImgRetina: "images/raster@2x.png",
-
 		buildPlayer: function (options) {
 
 			return this.each(function () {

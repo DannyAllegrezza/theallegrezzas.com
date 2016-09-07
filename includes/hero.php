@@ -5,20 +5,18 @@
                     <div id="menu-logo">C <span>&amp;</span> D</div>
                     <nav id="navigation" class="column twelve">
                         <ul>
-                            <li><a href="#logo">Home</a></li>
+                            <li><a href="#logo"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a></li>
                             <li><a href="#couple">Our Story</a></li>
-                            <!-- <li><a href="#loveline">Loveline</a></li> -->
                             <li class="submenu"><a href="#important-people">Wedding Info</a>
                                 <ul>
-                                    <li><a href="#important-people">Wedding Party</a></li>
                                     <li><a href="#wedding-events">Itinerary</a></li>
                                     <li><a href="#attire">Attire</a></li>
+                                    <li><a href="#important-people">Wedding Party</a></li>
                                     <li><a href="#map-section">Accommodations</a></li>
                                 </ul>
                             </li>
                             <li><a href="#wedding-gallery">Gallery</a></li>
                             <li><a href="#gift-registry">Registry</a></li>
-                            <!--<li><a href="#guestbook">GuestBook</a></li>-->
                         </ul>
                     </nav>
                     <a href="#" id="menu-toggle-wrapper">

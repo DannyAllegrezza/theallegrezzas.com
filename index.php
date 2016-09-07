@@ -12,7 +12,7 @@
     <section id="home-content" class="top-menu">
         <!-- RSVP Now -->
         <section id="invitation" class="pattern">
-            
+            <span>Welcome to The Allegrezzas.com!</span>
 
         </section>
         <!-- #RSVP Now -->
