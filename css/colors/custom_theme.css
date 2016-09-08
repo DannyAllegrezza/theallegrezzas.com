@@ -140,8 +140,21 @@ footer .logo span {
     padding-top: 50px;
 }
 
+#wedding-gallery .section-title{
+    margin-bottom: 0px;
+}
+
+/* Mobile Styling  < 668 px*/
+
 @media (max-width: 668px) {
     .box.pattern {
     background-color: rgba(255, 255, 255, 0.97);
+    }
+
+    #couple .images .column > span {
+    position: absolute;
+    top: 160px;
+    right: 0px;
+    z-index: 9;
     }
 }

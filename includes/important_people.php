@@ -116,8 +116,8 @@
                     <div class="column six right">
                         <h2 class="vibe">Flower Girl </h2>
                         <div class="tabs people-image">
-                            <li>
-                                <a href="#person11" class="active"><img src="images/important-people/izzy.jpg" alt="" /></a>
+                            <li class="active">
+                                <img src="images/important-people/izzy.jpg" alt="" class="active"/>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
@@ -132,8 +132,8 @@
                     <div class="column six left">
                         <h2 class="vibe">Ring Bearer</h2>
                         <div class="tabs people-image">
-                            <li>
-                                <a href="#person12" class="active"><img src="images/important-people/mason.jpg" alt="" /></a>
+                            <li class="active">
+                                <img src="images/important-people/mason.jpg" alt="" class="active"/>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
