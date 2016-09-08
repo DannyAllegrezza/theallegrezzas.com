@@ -4,7 +4,7 @@
 <?php include("includes/head.php"); ?>
 
 <body>
-    <div class="loaderOverlay"><i class="fa fa-heart animate-spin"></i></div>
+    
     <!-- Hero Section / Navigation-->
     <div id="logo">Caitlin <span>&amp;</span> Danny</div>
     <?php include("includes/hero.php"); ?>
