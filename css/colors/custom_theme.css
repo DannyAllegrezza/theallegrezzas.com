@@ -33,7 +33,7 @@ a.button.fill {
     color: #FF8C89;
 }
 #logo {
-    color: #fff;
+    color: #1a237e;
 }
 #main-menu nav#navigation a:hover, #main-menu nav#navigation a.active {
     color: #FF8C89;
@@ -170,12 +170,16 @@ section#registry .small-box li {
     }
 
     section#registry{
-        padding-top: 80px;
+        padding-top: 140px;
 
     }
 
     #attire-box{
         width: 80%;
+    }
+    
+    section#registry .small-box li {
+    width: 90%;
     }
 }
 
