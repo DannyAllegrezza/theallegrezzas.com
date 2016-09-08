@@ -102,10 +102,10 @@ footer .logo span {
     background: #FF8C89;
 }
 #menu-toggle {
-    background: #FF8C89;
+    background: #1a237e;
 }
 #menu-toggle:before {
-    background: #FF8C89;
+    background: #1a237e;
 }
 .pattern, #wedding-events .timeline .column.heart:after {
     background-color: #f1f3f5;
@@ -143,7 +143,9 @@ footer .logo span {
 #wedding-gallery .section-title{
     margin-bottom: 0px;
 }
-
+#registry h3.section-title:before {
+    content: "\e009";
+}
 /* Mobile Styling  < 668 px*/
 
 @media (max-width: 668px) {
@@ -160,7 +162,20 @@ footer .logo span {
 
     section#registry{
         padding-top: 80px;
-        
+
+    }
+
+    #attire-box{
+        width: 80%;
     }
 }
 
+@media (max-width: 1024px){
+    #menu-logo {
+        color: #1a237e;
+    }
+
+    #menu-logo span {
+        color: #bdbdbd;
+    }
+}
