@@ -139,10 +139,14 @@
                         </div>
                     </div>
                     <div class="column six heart left movetop">
-                        <div class="box pattern">
-                            <span class="date">April 2</span>
+                        <div class="box center corner">
+                            <div class="corners-topleft"></div>
+                            <div class="corners-bottomleft"></div>
+                            <div class="corners-topright"></div>
+                            <div class="corners-bottomright"></div>
                             <h2>Our Engagement Party</h2>
-                            <div class="box-content">
+                            <div class="details box-content">
+                            <span class="section-title">April 2nd, 2016</span>
                                 <div class="gallery">
                                     <img src="images/album/party1.jpg" alt="">
                                     <img src="images/album/party2.jpg" alt="">
