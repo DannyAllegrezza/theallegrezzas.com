@@ -155,6 +155,12 @@ section#registry{
 section#registry .small-box li {
     width: 50%;
 }
+
+@media (min-width: 668px) and (max-width: 999px) {
+        section#map-section .box{
+        min-height: 950px;
+    }
+}
 /* Mobile Styling  < 668 px*/
 
 @media (max-width: 668px) {
