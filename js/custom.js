@@ -351,8 +351,8 @@ if (!Array.prototype.indexOf) {
 
             var mapOptions = {
                 scrollwheel: false,
-                zoom: 17,
-                center: new google.maps.LatLng(35.952938, -80.001940), // HP, NC
+                zoom: 10,
+                center: new google.maps.LatLng(35.953000, -80.005314), // HP, NC
                 styles: [{
                     "featureType": "road",
                     "elementType": "labels",
@@ -508,95 +508,7 @@ if (!Array.prototype.indexOf) {
         $('.accordion .contents').hide();
         $('.accordion .active').next().slideDown('normal');
 
-        /* Twitter - open get_tweets.php and populate file with your info.
-        ==================================================================================== */
-        $('.tweets').each(function() {
-            var $this = $(this);
 
-            $.getJSON("twitter/get_tweets.php?get=" + $this.attr('id'), function(data) {
-
-                if (data) {
-                    var tweets = '';
-
-                    $.each(data, function() {
-                        var tweet = '<div class="tweet">';
-                        tweet += '<span class="one-tweet">' + this.text + '</span>';
-                        tweet += '<span class="time">' + this.time_ago + ' ago</span>';
-                        tweet += '</div>';
-
-                        tweets += tweet;
-                    });
-
-                    $this.prepend(tweets);
-                }
-
-            }).always(function() {
-                //twitterCarousel();
-            });
-
-        });
-
-        /* Instagram Script - change Tag to yours and update ClientId
-        ==================================================================================== */
-        /*
-        var instagramTag = 'wedding'; // Add Instagram Tag here
-        var instagramClientId = '630b5c9d2cab44e08fb9d014cf00b2b6'; // Add ClientId here
-        var $instagramSection = $('#instagram-section');
-        var max_tag_id = false;
-
-        var getInstagramByTag = function() {
-
-            $.ajax({
-                url: "https://api.instagram.com/v1/tags/" + instagramTag + "/media/recent",
-                data: $.extend({}, {
-                    client_id: instagramClientId,
-                    count: 10,
-                }, (max_tag_id ? {
-                    max_tag_id: max_tag_id
-                } : {})),
-                type: "GET",
-                dataType: "jsonp",
-            }).done(function(resp) {
-
-                var img = [];
-
-                $.each(resp.data, function() {
-                    if (this.type != 'image') {
-                        return;
-                    }
-                    if (this.caption !=null) { 
-                        if(this.caption.text != null) { 
-                            var title = this.caption.text; 
-                        } 
-                    } else { var title = ""; }
-                    img.push(
-                        $("<a href='" + this.link + "' target='_blank'></a>").append(
-                            $("<img>", {
-                                src: this.images.thumbnail.url,
-                                title: title
-                            })
-                        )
-                    );
-                });
-
-                if (typeof resp.pagination.next_max_tag_id != 'undefined') {
-                    max_tag_id = resp.pagination.next_max_tag_id;
-                } else {
-                    $instagramSection.find('.load-more').fadeOut();
-                }
-
-                $instagramSection.find('.instagram-images').append(img);
-            });
-        };
-
-        $instagramSection.on('click', '.load-more a', function(e) {
-            e.preventDefault();
-
-            getInstagramByTag();
-        });
-
-        getInstagramByTag();
-        */
         /* WOW plugin triggers animation.css on scroll
         ================================================== */
         var wow = new WOW(

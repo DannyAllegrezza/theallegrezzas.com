@@ -146,6 +146,15 @@ footer .logo span {
 #registry h3.section-title:before {
     content: "\e009";
 }
+
+section#registry{
+    padding-bottom: 350px;
+    padding-top: 200px
+}
+
+section#registry .small-box li {
+    width: 50%;
+}
 /* Mobile Styling  < 668 px*/
 
 @media (max-width: 668px) {
@@ -170,6 +179,11 @@ footer .logo span {
     }
 }
 
+@media (min-width: 1000px){
+    section#map-section .box{
+        min-height: 700px;
+    }
+}
 @media (max-width: 1024px){
     #menu-logo {
         color: #1a237e;
