@@ -54,7 +54,7 @@
                             <div id="person5" class="tab-content">
                                 <h3>Lauren Caulfield</h3>
                                 <div class="story">
-                                    <p>Lauren and I met the summer of '01 right before my freshman (her sophomore) year of high school. We were brought together by our shared participation in marching band. We experienced long (and hot) days of practicing our instruments while learning various formations. She played clarinet and I played the trumpet. We also shared the same enthusiasm for the drumline section so she quickly became my dance partner! We have stayed very close throughout the years despite having long distances between us. I was honored to be her bridesmaid in 2011 and I'm so happy that she will share the same joy with me this December.</p>
+                                    <p>Lauren and I met the summer of '01 right before my freshman (her sophomore) year of high school. We were brought together by our shared participation in marching band. We experienced long (and hot) days of practicing our instruments while learning various formations. She played clarinet and I played the trumpet. We also shared the same enthusiasm for the drum line section so she quickly became my dance partner! We have stayed very close throughout the years despite having long distances between us. I was honored to be her bridesmaid in 2011 and I'm so happy that she will share the same joy with me this December.</p>
                                 </div>
                             </div>
                         </div>
@@ -82,31 +82,31 @@
                             <div id="person6" class="tab-content">
                                 <h3>Ray Allegrezza (Best man &amp; father of the groom)</h3>
                                 <div class="story">
-                                    <p>Choosing my father as my best man was by far the easiest decision of this entire wedding planning process!</p>
+                                    <p>Choosing my father as my best man was a natural decision. He has taught me so many valuable life lessons, from how to throw a baseball to teaching me how to drive his 1965 Mustang. He challenges me to be the best version of myself I can be. I am excited to have him as my best man!</p>
                                 </div>
                             </div>
                             <div id="person7" class="tab-content">
                                 <h3>Michael Allegrezza</h3>
                                 <div class="story">
-                                    <p>Vestibulum cras ullamcorper a parturient sem a euismod tempus phasellus ornare a dapibus sit ullamcorper justo praesent sem tempor imperdiet vestibulum a condimentum in magna.</p>
+                                    <p>Mike Allegrezza is my oldest brother. He and I have been through a lot! He showed me how to use our home computer, introduced me to video games and got me hooked on import cars. He is a huge inspiration and his latest accomplishments are a testament to his positive attitude and great work ethic.</p>
                                 </div>
                             </div>
                             <div id="person8" class="tab-content">
                                 <h3>Steve Allegrezza</h3>
                                 <div class="story">
-                                    <p>Vestibulum cras ullamcorper a ullamcorper scelerisque iaculis per hac proin duis vestibulum ullamcorper tempor ultricies. Eu non sociosqu magna adipiscing ad consectetur a parturient sem .</p>
+                                    <p>Steve Allegrezza is the second oldest brother. I cannot say enough good things about Steve. What does this guy not do? He is a great father, husband, friend, teacher, business man and so much more. I know that I can always count on him to give me advice when I need it and show me the light in a dark situation. Having him stand by me on my wedding day is an honor.</p>
                                 </div>
                             </div>
                             <div id="person9" class="tab-content">
                                 <h3>Anthony Allegrezza</h3>
                                 <div class="story">
-                                    <p>Vestibulum cras ullamcorper a ullamcorper scelerisque iaculis per hac proin duis vestibulum ullamcorper tempor ultricies. Eu non sociosqu magna adipiscing ad consectetur a parturient sem .</p>
+                                    <p>My youngest brother Anthony was born only 23 months after my arrival to this world. He instantly became my "kid brother" but that quickly changed as I took on a protective "big brother" role. Growing up we have had our fair share of disagreements but always end up making each other laugh. It makes me proud to know he just returned from studying abroad in Japan and is about to finish his undergraduate degree at UNCC. </p>
                                 </div>
                             </div>
                             <div id="person10" class="tab-content">
                                 <h3>Chris Bingham</h3>
                                 <div class="story">
-                                    <p>Vestibulum cras ullamcorper a ullamcorper scelerisque iaculis per hac proin duis vestibulum ullamcorper tempor ultricies. Eu non sociosqu magna adipiscing ad consectetur a parturient sem .</p>
+                                    <p>This guy! Chris, the brother of the bride, has truly become a great friend. Our circumstances for meeting are pretty humorous. I met Chris for the first time while visiting Caitlin at her apartment. Her and Chris were living together at the time so I knew there was a good chance we would meet. I wanted to make sure the timing was just right! I was testing out Caitlin's inversion table for the first time when I hear the front door crack open. Sure enough, in walks Chris while I am hanging completely upside down! He laughed and introduced himself. I am thrilled to have him stand beside me on my wedding day where he will become my brother!</p>
                                 </div>
                             </div>
                         </div>

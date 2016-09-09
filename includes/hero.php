@@ -9,9 +9,9 @@
                             <li><a href="#couple" title="Our Story">Our Story</a></li>
                             <li class="submenu"><a href="#important-people" title="All the information you need to know about our December 10th wedding!">Wedding Info</a>
                                 <ul>
-                                    <li><a href="#wedding-events" title="Wedding day itinerary">Itinerary</a></li>
-                                    <li><a href="#attire" title="Attire">Attire</a></li>
                                     <li><a href="#important-people" title="Wedding Party">Wedding Party</a></li>
+                                    <li><a href="#attire" title="Attire">Attire</a></li>
+                                    <li><a href="#wedding-events" title="Wedding day itinerary">Itinerary</a></li>
                                     <li><a href="#map-section" title="Map and Accommodations">Accommodations</a></li>
                                 </ul>
                             </li>
