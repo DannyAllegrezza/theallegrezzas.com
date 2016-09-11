@@ -147,6 +147,14 @@ footer .logo span {
     content: "\e009";
 }
 
+#loveline h2 {
+    margin-bottom: 10px;
+}
+
+#loveline .details {
+    margin: 40px 0 25px 0;
+}
+
 section#registry{
     padding-bottom: 350px;
     padding-top: 200px

@@ -698,7 +698,7 @@ a.button i {
     margin: 10px 0;
     color: #fff;
     font-size: 94px;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
 }
 .hero #countdown:before {
     position: absolute;
@@ -747,7 +747,7 @@ a.button i {
     text-align: center;
     color: #fff;
     letter-spacing: 1px;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
     font-size: 30px;
 }
 .hero-inner .mouse {
@@ -1509,7 +1509,7 @@ a.button i {
     height: 100%;
 }
 .parallax {
-    background-image: url(../images/quote.png);
+    background-image: url(../images/quote.jpg);
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -2408,10 +2408,6 @@ header.fixed {
 .baby#background-image {
     margin-top: 0;
     padding-bottom: 60px;
-}
-.baby-pattern {
-    background-image: url(../images/bgs/BG-mnml.png);
-    padding: 40px 0;
 }
 .baby .container {
     display: table;

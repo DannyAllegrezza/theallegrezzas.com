@@ -282,7 +282,6 @@ if (!Array.prototype.indexOf) {
                     var magnificPopup = this;
                     var $gallery = this.contentContainer.find('.small-gallery');
 
-                    // Smanjujemo velicinu slika
                     img.css('max-height', parseFloat(img.css('max-height')) * 0.7);
 
                     if ($gallery.find('img').length) {
@@ -304,6 +303,26 @@ if (!Array.prototype.indexOf) {
                     }
                 }
             }
+        });
+
+        $('.gallery').each(function() { // the containers for all your galleries
+            $(this).magnificPopup({
+                delegate: 'a', // the selector for gallery item
+                type: 'image',
+                gallery: {
+                  enabled:true
+                }
+            });
+        });
+
+        $('.details').each(function() { // the containers for all your galleries
+            $(this).magnificPopup({
+                delegate: 'a', // the selector for gallery item
+                type: 'image',
+                gallery: {
+                  enabled:true
+                }
+            });
         });
 
         /* Isotope Portfolio

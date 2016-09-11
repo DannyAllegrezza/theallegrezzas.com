@@ -106,7 +106,7 @@
                             <div id="person10" class="tab-content">
                                 <h3>Chris Bingham</h3>
                                 <div class="story">
-                                    <p>This guy! Chris, the brother of the bride, has truly become a great friend. Our circumstances for meeting are pretty humorous. I met Chris for the first time while visiting Caitlin at her apartment. Her and Chris were living together at the time so I knew there was a good chance we would meet. I wanted to make sure the timing was just right! I was testing out Caitlin's inversion table for the first time when I hear the front door crack open. Sure enough, in walks Chris while I am hanging completely upside down! He laughed and introduced himself. I am thrilled to have him stand beside me on my wedding day where he will become my brother!</p>
+                                    <p>This guy! Chris, the brother of the bride, has truly become a great friend. Our circumstances for meeting are pretty humorous. I met Chris for the first time while visiting Caitlin at her apartment. She and Chris were living together at the time so I knew there was a good chance we would cross paths. I wanted to make sure the timing was just right! I was testing out Caitlin's inversion table for the first time when I heard the front door crack open. Sure enough, in walks Chris while I am hanging completely upside down! He laughed and introduced himself. I am thrilled to have him stand beside me on my wedding day where he will become my brother!</p>
                                 </div>
                             </div>
                         </div>

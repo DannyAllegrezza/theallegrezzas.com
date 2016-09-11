@@ -40,7 +40,7 @@
                         <h2 class="vibe">Groom’s story</h2>
                         <div class="story">
                             <p>I can tell you exactly how Caitlin and I met! One of my friends was hosting a birthday party and asked me if I wanted to bring anyone to tag along. I invited one of my friends, Ricky, who asked if he could bring along a high school friend who he had not seen in a long time. </p>
-                            <p>Condimentum sit parturient varius at facilisi tempus dignissim sodales a faucibus curae suspendisse suspendisse a odio a. Elit sodales vestibulum nec varius scelerisque commodo parturient.</p>
+                            <p>I'll never forget when Caitlin walked out of her apartment! She had such a friendly and kind smile which instantly won me over. She hopped into the car and off we went!</p>
                         </div>
                     </div>
                 </div>

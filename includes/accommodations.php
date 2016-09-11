@@ -62,6 +62,7 @@
                                 </ul>
                             </div>
                                 <div id="map"></div>
+                                <p>Our venue is located at <a href="https://goo.gl/maps/dxyRiSmawSR2">317 South Hamilton Street, <br>High Point NC 27260</a></p>
                         </div>
                     </div>
                     <!-- hotel logos -->
