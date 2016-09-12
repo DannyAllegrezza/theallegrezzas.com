@@ -11,19 +11,19 @@
                         <h2 class="vibe">Bridesmaids</h2>
                         <div class="tabs people-image">
                             <li>
-                                <a href="#person1" class="active"><img src="images/important-people/bridesmade1.jpg" alt="" /></a>
+                                <a href="#person1" class="active"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmade1.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person2"><img src="images/important-people/bridesmade2.jpg" alt="" /></a>
+                                <a href="#person2"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmade2.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person3"><img src="images/important-people/bridesmade3.jpg" alt="" /></a>
+                                <a href="#person3"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmade3.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person4"><img src="images/important-people/bridesmaid4.jpg" alt="" /></a>
+                                <a href="#person4"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmaid4.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person5"><img src="images/important-people/bridesmaid5.jpg" alt="" /></a>
+                                <a href="#person5"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmaid5.jpg" alt="" /></a>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
@@ -63,19 +63,19 @@
                         <h3 class="vibe">Groomsmen</h3>
                         <div class="tabs people-image">
                             <li>
-                                <a href="#person6" class="active"><img src="images/important-people/groomsman1.jpg" alt="" /></a>
+                                <a href="#person6" class="active"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman1.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person7"><img src="images/important-people/groomsman2.jpg" alt="" /></a>
+                                <a href="#person7"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman2.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person8"><img src="images/important-people/groomsman3.jpg" alt="" /></a>
+                                <a href="#person8"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman3.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person9"><img src="images/important-people/groomsman4.jpg" alt="" /></a>
+                                <a href="#person9"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman4.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person10"><img src="images/important-people/groosman5.jpg" alt="" /></a>
+                                <a href="#person10"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groosman5.jpg" alt="" /></a>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
@@ -117,7 +117,7 @@
                         <h2 class="vibe">Flower Girl </h2>
                         <div class="tabs people-image">
                             <li class="active">
-                                <img src="images/important-people/izzy.jpg" alt="" class="active"/>
+                                <img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/izzy.jpg" alt="" class="active"/>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
@@ -133,7 +133,7 @@
                         <h2 class="vibe">Ring Bearer</h2>
                         <div class="tabs people-image">
                             <li class="active">
-                                <img src="images/important-people/mason.jpg" alt="" class="active"/>
+                                <img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/mason.jpg" alt="" class="active"/>
                             </li>
                         </div>
                         <div class="tab-content-wrap">

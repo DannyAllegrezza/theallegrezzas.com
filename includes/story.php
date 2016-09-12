@@ -23,6 +23,7 @@
                                 </p>
                                 <p>
                                     Long story short, I expected Danny to ask for my number at the end of the night but he never did! This, too, was unprecedented. I definitely wasn’t going to offer my number and look all desperate. So I decided to just Facebook-stalk him for the next few weeks instead.
+                                    Long story short, I expected Danny to ask for my number at the end of the night but he never did! This, too, was unprecedented. I definitely wasn’t going to offer my number and look all desperate. So I decided to just Facebook-stalk him for the next few weeks instead.
                                 </p>
                                 <p>
                                     I couldn’t get him off my mind. I kept thinking he would find me and eventually add me on Facebook, but he never did! Naturally, I started questioning myself. Was it my hair? My outfit? I knew I should have worn stilettos, not wedges! Or, maybe, he’s just a player.

@@ -25,12 +25,12 @@
     <link id="colors" rel="stylesheet" href="css/colors/custom_theme.css" media="all">
     <!-- Favicons
     ================================================== -->
-    <link rel="shortcut icon" href="images/elements/favicon.ico">
-    <link rel="apple-touch-icon" href="images/elements/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/elements/apple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="images/elements/apple-touch-icon-114x114.png" />
-    <link rel="apple-touch-icon" sizes="144x144" href="images/elements/apple-touch-icon-144x144.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="images/elements/apple-touch-icon-180x180.png" />
+    <link rel="shortcut icon" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/favicon.ico">
+    <link rel="apple-touch-icon" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/apple-touch-icon-180x180.png" />
     <!-- Load Main jQuery Files
     ================================================== -->
     <script src="js/jquery.min.js"></script>
@@ -43,3 +43,4 @@
         <link rel="stylesheet" type="text/css" href="css/ie.css" />
     <![endif]-->
 </head>
+

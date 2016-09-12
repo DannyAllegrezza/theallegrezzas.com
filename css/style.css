@@ -1,37 +1,4 @@
-/*
-Theme Name: Yes Theme
-Author: Logica Technology
-Version: 1.0
-*/
-/* Table of Content
-==================================================
-  1. Document Setup (body, common classes, etc)
-  2. Misc and Re-usable Elements
-  3. Hero Section
-  4. Video Background
-  5. Navigation
-  6. Invitation RSVP
-  7. Top Couple Images
-  8. Story Section
-  9. Loveline and Box Class
-  10. Parallax Image-just change background URL
-  11. Wedding Events
-  12. Important People
-  13. Small Gallery
-  14. Twitter
-  15. Gift Registry
-  15.1. Gift money
-  16. Instagram
-  17. GuestBook
-  18. Contact
-  19. Map Section
-  20. Footer
-  21. Background Images for Single Post
-  22. Single Page
-  23. Elements Used in Inside Page
-  24. Responsive Version 
 
-*/
 /* =========================================================== 
     1. Document Setup (body, common classes, structure etc)
 ============================================================ */
@@ -214,7 +181,7 @@ section section {
 }
 .pattern, #wedding-events .timeline .column.heart:after {
     background-color: #fff;
-    background-image: url(../images/bgs/BG-debut-light.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/bgs/BG-debut-light.png");
     background-repeat: repeat;
 }
 .box.pattern {
@@ -223,11 +190,11 @@ section section {
 }
 .bgcolor {
     background-color: #fff;
-    background-image: url(../images/bgs/BG-debut-light.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/bgs/BG-debut-light.png");
     background-repeat: repeat;
 }
 .no-video {
-    background-image: url(../images/hero.jpg);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/hero.jpg");
 }
 .nobottom-padding {
     padding-bottom: 0;
@@ -390,11 +357,11 @@ a.button i {
     top: 30px;
 }
 .timeline .column.left .box:after {
-    background-image: url(../images/elements/arrow-left.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-left.png");
     left: -22px;
 }
 .timeline .column.right .box:after {
-    background-image: url(../images/elements/arrow-right.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-right.png");
     right: -22px;
 }
 .column.left {
@@ -428,7 +395,7 @@ a.button i {
     color: #c9ac67;
 }
 .arrow-up {
-    background-image: url(../images/elements/arrow-up.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-up.png");
     position: absolute;
     width: 17px;
     height: 22px;
@@ -437,7 +404,7 @@ a.button i {
     margin-left: -8px;
 }
 .arrow-down {
-    background-image: url(../images/elements/arrow-down.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-down.png");
     position: absolute;
     width: 19px;
     height: 11px;
@@ -661,7 +628,7 @@ a.button i {
     vertical-align: bottom;
 }
 .hero {
-    background-image: url(../images/hero.jpg);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/hero.jpg");
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -1240,7 +1207,7 @@ a.button i {
 }
 #couple .hero-heart {
     position: absolute;
-    background-image: url(../images/elements/hero-heart.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/hero-heart.png");
     width: 113px;
     height: 109px;
     top: 150px;
@@ -1249,10 +1216,10 @@ a.button i {
     z-index: 9;
 }
 #couple .girl {
-    background-image: url(../images/album/forthworth/Caitlin_Danny_011.jpg);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/album/forthworth/Caitlin_Danny_011.jpg");
 }
 #couple .boy {
-    background-image: url(../images/danny.jpg);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/danny.jpg");
 }
 #couple .images .column > span {
     position: absolute;
@@ -1440,7 +1407,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url(../images/elements/corner-default.png);
+    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default.png");
     top: 0;
     right: 0;
 }
@@ -1449,7 +1416,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url(../images/elements/corner-default.png);
+    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default.png");
     top: 0;
     left: 0px;
     -ms-transform: rotate(270deg);
@@ -1464,7 +1431,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url(../images/elements/corner-default2.png);
+    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default2.png");
     bottom: 0;
     right: 0;
 }
@@ -1473,7 +1440,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url(../images/elements/corner-default2.png);
+    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default2.png");
     bottom: 0;
     left: -0;
     -ms-transform: rotate(90deg);
@@ -1509,7 +1476,7 @@ a.button i {
     height: 100%;
 }
 .parallax {
-    background-image: url(../images/quote.jpg);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/quote.jpg");
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -2070,7 +2037,7 @@ select {
 }
 #map-pins li {
     padding-left: 34px;
-    background-image: url(../images/map/MapIcons-red1.png);
+    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/map/MapIcons-red1.png");
     background-repeat: no-repeat;
     height: 32px;
     margin-bottom: 3px;
@@ -2166,12 +2133,7 @@ footer .info {
     background-size: cover !important;
     background-repeat: no-repeat !important;
 }
-.bg1 {
-    background-image: url(../images/singlePost_hero1.jpg);
-}
-.bg2 {
-    background-image: url(../images/hero-baby.jpg);
-}
+
 /* =========================================================== 
     22.  Single Page
 ============================================================ */
