@@ -36,13 +36,13 @@
                             <div id="person2" class="tab-content">
                                 <h3>Kelly Farrell (Maid of Honor)</h3>
                                 <div class="story">
-                                    <p>Kelly is my other beautiful maid of honor and Sarah's twin sister. She and I have enough inside jokes to fill a book (oh wait, I've already done that!) Kelly is the more conservative and traditional of the two sisters. Despite their various idiosyncrasies, the three of us have remained best friends since I was 10 years old; we have literally grown up together! Kelly and I have an irreplaceable friendship which I will always cherish. I am honored to stand beside her as a bridesmaid when she gets married next June!</p>
+                                    <p>Kelly is my other beautiful maid of honor and Sarah's twin sister. She and I have enough inside jokes to fill a book (oh wait, I've already done that!) Kelly is the more conservative and traditional of the two sisters. Despite their various idiosyncrasies, the three of us have remained best friends since I was 10 years old; we have literally grown up together! Kelly is also a sister to me - we have an irreplaceable friendship which I will always cherish. I am honored to stand beside her as a bridesmaid when she gets married next June!</p>
                                 </div>
                             </div>
                             <div id="person3" class="tab-content">
                                 <h3>Cameron Ford</h3>
                                 <div class="story">
-                                    <p>I remember meeting Cameron in middle school. We rode the same bus to school and lived only a couple of miles from each other. She and I became much closer in high school and college, and have had countless fun nights together ever since! Our friendship has sustained many years, and I am so excited to be a bridesmaid for her in September.</p>
+                                    <p>I've known Cameron since middle school. We lived only a couple miles from each other and therefore rode the same bus to school everyday. She and I stayed in touch and became much closer in high school and college, and have had countless fun nights together ever since! Our friendship has sustained many years. I was honored to be her bridesmaid as well this past September!</p>
                                 </div>
                             </div>
                             <div id="person4" class="tab-content">
