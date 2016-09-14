@@ -8,7 +8,7 @@
                         <div class="story" id="bride-story">
                             <p>I vividly remember the night I met Danny. My friend Ricky from high school invited me to go out with him to celebrate a friend’s birthday. On his way to pick me up, he mentioned that his friend Danny would be joining us. When they arrived, Ricky and Danny waited patiently in their cars outside of my apartment as I finished primping. I walked downstairs to meet them in the parking lot and saw Ricky in his car. We waved at each other, then he pointed to the car next to him and introduced Danny. I glanced over and saw Danny for the first time.</p>
                             <p class="center"><b>Whoa!</b></p>
-                            <p class="#more-info-section">
+                            <p >
                                 The first thing I noticed was his bright, charismatic smile, followed by his gorgeous light eyes and jet-black hair. I guess you could say that he immediately piqued my interest.
                             </p>
                             <a href="#more-info-section" id="show-more" class="visible">Read more...</a>
@@ -39,8 +39,18 @@
                     <div class="column six left">
                         <h2 class="vibe">Groom’s story</h2>
                         <div class="story">
-                            <p>I can tell you exactly how Caitlin and I met! One of my friends was hosting a birthday party and asked me if I wanted to bring anyone to tag along. I invited one of my friends, Ricky, who asked if he could bring along a high school friend who he had not seen in a long time. </p>
-                            <p>I'll never forget when Caitlin walked out of her apartment! She had such a friendly and kind smile which instantly won me over. She hopped into the car and off we went!</p>
+                            <p>One of my friends was hosting a birthday party and asked me if I wanted to bring anyone to tag along. I invited one of my friends, Ricky, who asked if he could also bring along a guest. Little did I know that she would end up being my wife one day.</p>
+                            <p>I'll never forget when Caitlin walked out of her apartment. She had such a friendly, kind, beautiful smile which instantly caught my eye! I quickly introduced myself and then we all departed to the party. Upon arrival, we instantly started making conversation. She asked me about my hobbies and I mentioned cars and drifting.</p> 
+                            <p>
+                                "Drifting? That sounds pretty awesome!" she replied. I knew at that point I decided I was going to marry her! Okay, so I wasn't ready to propose just yet, but she won me over at this point. 
+                            </p>
+                            <a href="#more-info-section-groom" id="show-more-groom" class="visible">Read more...</a>
+                            <div id="more-info-groom">
+                            <p>
+                            We finally ended up at a local club and the party really began. I recall trying to play it cool, keeping my distance and not trying be overbearing with my desire to talk to her more. Eventually we did end up on the dance floor near each other and we decided to take a break and head towards the bar. When she offered to buy my drink I was very surprised! I returned the favor by purchasing us a second round of drinks. I did my best to keep her entertained throughout the night.
+                            </p>
+                            <p>After concluding our night I was well aware that I did not ask for Caitlin's phone number! I was worried and attempted to find her through any means necessary. Luckily, she came to me via a Facebook poke! I casually asked her out on a date and the rest is history. So far it has been almost 4 incredible years with Caitlin, the best years of my life. The saying "you'll find true love when you least expect it" is cliché, but so incredibly true. I am thankful that Caitlin is a part of my life and cannot wait to call her my wife on December 10th!</p>
+                            </div>
                         </div>
                     </div>
                 </div>

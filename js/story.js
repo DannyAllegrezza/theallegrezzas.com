@@ -2,16 +2,25 @@
 * 
 */
 
-function setup() {
+function setupReadMore() {
     var aboutSectionDiv = document.getElementById('more-info');
     aboutSectionDiv.style.display = 'none'; // Hides the about section 
 
+    var groomAboutSectionDiv = document.getElementById('more-info-groom');
+    groomAboutSectionDiv.style.display = 'none';
+
     var showMoreLink = document.getElementById('show-more');
+    var showMoreLinkGroom = document.getElementById('show-more-groom');
+
     showMoreLink.addEventListener('click', function () {
         toggle(aboutSectionDiv);
         changeLinkText(this);
     }, false);
-}
+
+    showMoreLinkGroom.addEventListener('click', function () {
+        toggle(groomAboutSectionDiv);
+        changeLinkText(this);
+    }, false);}
 
 function showDiv(e) {
     e.style.display = 'block';
@@ -44,4 +53,4 @@ function changeLinkText(e) {
 }
 
 // Adds an event listener to the window object. When the window is loaded, we call the setup() method.
-window.addEventListener('load', setup, false); 
+//window.addEventListener('load', setupReadMore, false); 

@@ -12,7 +12,7 @@
     <section id="home-content" class="top-menu">
         <!-- Welcome Area -->
         <section id="invitation" class="pattern">
-            <span>Welcome to The Allegrezzas.com!</span>
+            
         </section>
         <!-- #Welcome Area -->
 
@@ -86,7 +86,7 @@
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXXqQOtxHDi6iatz5Fm1VGzsVvV5HiDfU&sensor=false"></script>
     <script src="js/custom.js"></script>
-    <script src="js/story.js"></script>
+
     <script>
     var markers = [
         ['Radisson Hotel, High Point NC', 35.956287, -80.004863, 'hotel', ''],

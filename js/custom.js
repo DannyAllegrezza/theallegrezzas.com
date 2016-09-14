@@ -17,13 +17,7 @@ if (!Array.prototype.indexOf) {
     "use strict";
 
     $(document).ready(function() {
-        /*
-        $('#read-more-button').click(function(){
-            $('#bride-read-more').toggle("slow");
-            this.text("Read Less");
-            //todo: make this say read less etc.
-        });
-        */
+        setupReadMore();
         /* Preloader - remove this and loaderOverlay div in html file, to disable loader.
         ==================================================================================== */
         if (typeof imagesLoaded != 'undefined') {

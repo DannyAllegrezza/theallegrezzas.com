@@ -33,6 +33,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/apple-touch-icon-180x180.png" />
     <!-- Load Main jQuery Files
     ================================================== -->
+    <script src="js/story.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/modernizr.js"></script>
     <!--[if lt IE 9]>
