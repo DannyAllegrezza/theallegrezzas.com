@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="css/grid.css" media="all">
     <link rel="stylesheet" href="css/magnific-popup.css" media="all">
     <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/animate.min.css" media="all">
     <link rel="stylesheet" href="css/flaticon.css" media="all">
     <link rel="stylesheet" href="css/style.css" media="all">
     <link id="colors" rel="stylesheet" href="css/colors/custom_theme.css" media="all">

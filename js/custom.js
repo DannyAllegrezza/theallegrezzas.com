@@ -536,12 +536,6 @@ if (!Array.prototype.indexOf) {
 
         /* Share Icons
         ==================================================================================== */
-        $('.share').socShare({
-            facebook: '.soc-fb',
-            twitter: '.soc-tw',
-            google_plus: '.soc-gplus',
-            pinterest: '.soc-pin'
-        });
 
         /* Simple Countdown Timer - change belows date to specific one you want.
         ==================================================================================== */
