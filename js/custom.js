@@ -21,7 +21,7 @@ if (!Array.prototype.indexOf) {
         /* Preloader - remove this and loaderOverlay div in html file, to disable loader.
         ==================================================================================== */
         if (typeof imagesLoaded != 'undefined') {
-            imagesLoaded($('body'), function() {
+            imagesLoaded($('#top'), function() {
             	wow.init();
                 $('.loaderOverlay').fadeOut('slow');
                 $('#gallery-wrapper').isotope('reLayout');
