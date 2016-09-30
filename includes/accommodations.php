@@ -22,14 +22,14 @@
                     <!-- hotel logos -->
                     <ul class="small-box corner">                    
                         <li>
-                            <a target="_blank" class="product" href="https://www.radisson.com/high-point-hotel-nc-27260/usahigh"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/hotels/radisson.png" alt=""></a>
+                            <a target="_blank" class="product" href="https://www.radisson.com/high-point-hotel-nc-27260/usahigh"><img src="images/hotels/radisson.png" alt=""></a>
                             <div class="corners-topleft"></div>
                             <div class="corners-bottomleft"></div>
                             <div class="corners-topright"></div>
                             <div class="corners-bottomright"></div>
                         </li>
                         <li>
-                            <a target="_blank" class="product" href="https://thetownhouseinn.com/"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/hotels/townhouse.png" alt=""></a>
+                            <a target="_blank" class="product" href="https://thetownhouseinn.com/"><img src="images/hotels/townhouse.png" alt=""></a>
                             <div class="corners-topleft"></div>
                             <div class="corners-bottomleft"></div>
                             <div class="corners-topright"></div>
@@ -62,7 +62,7 @@
                                 </ul>
                             </div>
                                 <div id="map"></div>
-                                <p>Our venue is located at <a href="https://goo.gl/maps/dxyRiSmawSR2">317 South Hamilton Street, <br>High Point NC 27260</a></p>
+                                <p>Our venue is located at <a target="_blank" href="https://goo.gl/maps/dxyRiSmawSR2">317 South Hamilton Street, <br>High Point NC 27260</a></p>
                         </div>
                     </div>
                     <!-- hotel logos -->

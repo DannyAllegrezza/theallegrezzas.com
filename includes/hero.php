@@ -33,9 +33,11 @@
                 <h1>We’re getting married!</h1>
                 <div class="info">
                     <div id="countdown"> 462 <span>days</span> 18 <span>hours</span> 46 <span>mins</span> 34 <span>secs</span></div>
-                    <span class="date">December 10th 2016 | High Point, NC</span>
+                    <span class="date desktop">December 10th, 2016 | High Point, NC</span>
+                    <span class="date mobile">12.10.2016 | High Point, NC</span>
+
                 </div>
-                <a href="#couple" class="mouse scrollTo"><i class="fa fa-long-arrow-down"></i></a>
+                <a href="#couple" id="couple-scroll" class="mouse scrollTo"><i class="fa fa-long-arrow-down"></i></a>
             </div>
         </div>
     </section>

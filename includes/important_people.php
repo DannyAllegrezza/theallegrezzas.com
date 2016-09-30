@@ -11,19 +11,19 @@
                         <h2 class="vibe">Bridesmaids</h2>
                         <div class="tabs people-image">
                             <li>
-                                <a href="#person1" class="active"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmade1.jpg" alt="" /></a>
+                                <a href="#person1" class="active"><img src="images/important-people/bridesmade1.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person2"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmade2.jpg" alt="" /></a>
+                                <a href="#person2"><img src="images/important-people/bridesmade2.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person3"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmade3.jpg" alt="" /></a>
+                                <a href="#person3"><img src="images/important-people/bridesmade3.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person4"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmaid4.jpg" alt="" /></a>
+                                <a href="#person4"><img src="images/important-people/bridesmaid4.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person5"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/bridesmaid5.jpg" alt="" /></a>
+                                <a href="#person5"><img src="images/important-people/bridesmaid5.jpg" alt="" /></a>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
@@ -36,13 +36,13 @@
                             <div id="person2" class="tab-content">
                                 <h3>Kelly Farrell (Maid of Honor)</h3>
                                 <div class="story">
-                                    <p>Kelly is my other beautiful maid of honor and Sarah's twin sister. She and I have enough inside jokes to fill a book (oh wait, I've already done that!) Kelly is the more conservative and traditional of the two sisters. Despite their various idiosyncrasies, the three of us have remained best friends since I was 10 years old; we have literally grown up together! Kelly is also a sister to me - we have an irreplaceable friendship which I will always cherish. I am honored to stand beside her as a bridesmaid when she gets married next June!</p>
+                                    <p>Kelly is my other beautiful maid of honor and Sarah's twin sister. She and I have enough inside jokes to fill a book (oh wait, I've already done that!) Kelly is the more conservative and traditional of the two sisters. Despite their various idiosyncrasies, the three of us have remained best friends for 19 years; we have literally grown up together! Kelly is also a sister to me - we have an irreplaceable friendship which I will always cherish. I am honored to stand beside her as a bridesmaid when she gets married next June!</p>
                                 </div>
                             </div>
                             <div id="person3" class="tab-content">
-                                <h3>Cameron Ford</h3>
+                                <h3>Cameron Ford Crumpler</h3>
                                 <div class="story">
-                                    <p>I've known Cameron since middle school. We lived only a couple miles from each other and therefore rode the same bus to school everyday. She and I stayed in touch and became much closer in high school and college, and have had countless fun nights together ever since! Our friendship has sustained many years. I was honored to be her bridesmaid as well this past September!</p>
+                                    <p>I've known Cameron since middle school. We lived only a couple miles from each other and rode the same bus to school everyday. She and I stayed in touch and became much closer in high school and college! We have had countless fun nights together ever since. Our friendship has sustained many years despite the distances we've had between us. I was honored to be her bridesmaid, too, this past September!</p>
                                 </div>
                             </div>
                             <div id="person4" class="tab-content">
@@ -63,19 +63,19 @@
                         <h3 class="vibe">Groomsmen</h3>
                         <div class="tabs people-image">
                             <li>
-                                <a href="#person6" class="active"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman1.jpg" alt="" /></a>
+                                <a href="#person6" class="active"><img src="images/important-people/groomsman1.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person7"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman2.jpg" alt="" /></a>
+                                <a href="#person7"><img src="images/important-people/groomsman2.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person8"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman3.jpg" alt="" /></a>
+                                <a href="#person8"><img src="images/important-people/groomsman3.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person9"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groomsman4.jpg" alt="" /></a>
+                                <a href="#person9"><img src="images/important-people/groomsman4.jpg" alt="" /></a>
                             </li>
                             <li>
-                                <a href="#person10"><img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/groosman5.jpg" alt="" /></a>
+                                <a href="#person10"><img src="images/important-people/groosman5.jpg" alt="" /></a>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
@@ -117,14 +117,14 @@
                         <h2 class="vibe">Flower Girl </h2>
                         <div class="tabs people-image">
                             <li class="active">
-                                <img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/izzy.jpg" alt="" class="active"/>
+                                <img src="images/important-people/izzy.jpg" alt="" class="active"/>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
                             <div id="person11" class="tab-content">
                                 <h3>Isabelle Allegrezza</h3>
                                 <div class="story">
-                                    <p>Isabelle (Izzy) is Steve and Angela Allegrezza's daughter. Danny is also Izzy's godfather and uncle.</p>
+                                    <p>Isabelle (Izzy) is Steve and Angela Allegrezza's daughter. She is also Danny's niece and goddaughter.</p>
                                 </div>
                             </div>
                         </div>
@@ -133,14 +133,14 @@
                         <h2 class="vibe">Ring Bearer</h2>
                         <div class="tabs people-image">
                             <li class="active">
-                                <img src="https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/important-people/mason.jpg" alt="" class="active"/>
+                                <img src="images/important-people/mason.jpg" alt="" class="active"/>
                             </li>
                         </div>
                         <div class="tab-content-wrap">
                             <div id="person12" class="tab-content">
                                 <h3>Mason Pugh</h3>
                                 <div class="story">
-                                    <p>Our ring bearer Mason is the son of Steve and Angela Allegrezza. He is fan of sports, video games, and John Cena.</p>
+                                    <p>Our ring bearer, Mason, is Steve and Angela Allegrezza's son, and Izzy's brother. He is fan of sports, video games, and John Cena.</p>
                                 </div>
                             </div>
                         </div>

@@ -181,7 +181,7 @@ section section {
 }
 .pattern, #wedding-events .timeline .column.heart:after {
     background-color: #fff;
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/bgs/BG-debut-light.png");
+    background-image: url("../images/bgs/BG-debut-light.png");
     background-repeat: repeat;
 }
 .box.pattern {
@@ -190,11 +190,11 @@ section section {
 }
 .bgcolor {
     background-color: #fff;
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/bgs/BG-debut-light.png");
+    background-image: url("../images/bgs/BG-debut-light.png");
     background-repeat: repeat;
 }
 .no-video {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/hero.jpg");
+    background-image: url("../images/hero.jpg");
 }
 .nobottom-padding {
     padding-bottom: 0;
@@ -357,11 +357,11 @@ a.button i {
     top: 30px;
 }
 .timeline .column.left .box:after {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-left.png");
+    background-image: url("../images/elements/arrow-left.png");
     left: -22px;
 }
 .timeline .column.right .box:after {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-right.png");
+    background-image: url("../images/elements/arrow-right.png");
     right: -22px;
 }
 .column.left {
@@ -395,7 +395,7 @@ a.button i {
     color: #c9ac67;
 }
 .arrow-up {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-up.png");
+    background-image: url("../images/elements/arrow-up.png");
     position: absolute;
     width: 17px;
     height: 22px;
@@ -404,7 +404,7 @@ a.button i {
     margin-left: -8px;
 }
 .arrow-down {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/arrow-down.png");
+    background-image: url("../images/elements/arrow-down.png");
     position: absolute;
     width: 19px;
     height: 11px;
@@ -628,7 +628,7 @@ a.button i {
     vertical-align: bottom;
 }
 .hero {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/hero.jpg");
+    background-image: url("../images/hero.jpg");
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -1207,7 +1207,7 @@ a.button i {
 }
 #couple .hero-heart {
     position: absolute;
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/hero-heart.png");
+    background-image: url("../images/elements/hero-heart.png");
     width: 113px;
     height: 109px;
     top: 150px;
@@ -1216,10 +1216,10 @@ a.button i {
     z-index: 9;
 }
 #couple .girl {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/album/forthworth/Caitlin_Danny_011.jpg");
+    background-image: url("../images/album/forthworth/Caitlin_Danny_011.jpg");
 }
 #couple .boy {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/danny.jpg");
+    background-image: url("../images/danny.jpg");
 }
 #couple .images .column > span {
     position: absolute;
@@ -1407,7 +1407,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default.png");
+    background: url("../images/elements/corner-default.png");
     top: 0;
     right: 0;
 }
@@ -1416,7 +1416,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default.png");
+    background: url("../images/elements/corner-default.png");
     top: 0;
     left: 0px;
     -ms-transform: rotate(270deg);
@@ -1431,7 +1431,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default2.png");
+    background: url("../images/elements/corner-default2.png");
     bottom: 0;
     right: 0;
 }
@@ -1440,7 +1440,7 @@ a.button i {
     position: absolute;
     width: 45px;
     height: 45px;
-    background: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/elements/corner-default2.png");
+    background: url("../images/elements/corner-default2.png");
     bottom: 0;
     left: -0;
     -ms-transform: rotate(90deg);
@@ -1476,7 +1476,7 @@ a.button i {
     height: 100%;
 }
 .parallax {
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/quote.jpg");
+    background-image: url("../images/quote.jpg");
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -2037,7 +2037,7 @@ select {
 }
 #map-pins li {
     padding-left: 34px;
-    background-image: url("https://6a7269172c8b6af6833649993c92236856495ad9.googledrive.com/host/0B30ZJ6R3wY3ANFQtX3R6SGdlb2s/images/map/MapIcons-red1.png");
+    background-image: url("../images/map/MapIcons-red1.png");
     background-repeat: no-repeat;
     height: 32px;
     margin-bottom: 3px;
@@ -2362,69 +2362,7 @@ header.fixed {
 #back-to-top:hover {
     background: #f08583;
 }
-/* Baby Page */
 
-.baby {
-    position: relative;
-}
-.baby#background-image {
-    margin-top: 0;
-    padding-bottom: 60px;
-}
-.baby .container {
-    display: table;
-    height: 100%;
-}
-.baby .hero-inner {
-    display: table-cell;
-    vertical-align: bottom;
-    color: #fff;
-}
-.baby .hero-inner h1 {
-    font-size: 94px;
-    line-height: 121px;
-    color: #fff;
-    margin-top: 20px;
-}
-.baby .hero-inner > span {
-    display: block;
-    font-weight: 700;
-    font-size: 22px;
-    text-transform: uppercase;
-}
-.baby .hero-inner .date:before {
-    position: absolute;
-    content: '';
-    width: 50px;
-    height: 1px;
-    background-color: #fff;
-    top: -35px;
-    left: 50%;
-    margin-left: -25px;
-}
-.baby .hero-inner .date:after {
-    position: absolute;
-    content: '';
-    color: #fff;
-    top: -52px;
-    font-size: 16px;
-    left: 50%;
-    margin-left: -4px;
-}
-.baby .hero-inner .date {
-    display: block;
-    text-align: center;
-    margin-top: 65px;
-    position: relative;
-    font: 26px/32px 'Playfair Display', serif;
-    font-style: italic;
-}
-#babyline h3.section-title:before {
-    content: "\e004";
-}
-#babyline .timeline {
-    padding-bottom: 40px;
-}
 span.by {
     font-style: italic;
 }
@@ -2613,7 +2551,9 @@ ul.double-angle li:before {
 ============================================================ */
 /* #Will Only Show on Desktops
 ================================================== */
-
+.hero .info .mobile {
+    display: none;
+}
 @media screen and (min-width: 1025px) {
     #main-menu nav#navigation {
         display: block!important;
@@ -2759,6 +2699,10 @@ ul.double-angle li:before {
     background-color: rgba(255, 255, 255, 0.97);
     }
     
+    #couple .images > div {
+        background-position: center left;
+    }
+
     h1 {
         font-size: 28px;
     }
@@ -2777,13 +2721,32 @@ ul.double-angle li:before {
         line-height: 52px;
     }
     .hero #countdown {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 28px;
-        padding: 5px 0;
+        padding: 0px 0;
+        bottom: 55px;
     }
     .hero .info .date {
+        display: none;
         font-size: 16px;
         bottom: 80px;
+    }
+
+    .hero #countdown span {
+        font-family: 'Playfair Display', serif;
+        font-style: italic;
+        font-size: 12px;
+        margin: 0 15px 0 5px;
+        letter-spacing: 2px;
+    }
+    .hero h1 {
+        padding-bottom: 30px;
+    }
+    .hero #countdown:before {
+        display: none;
+    }
+    .hero .info .mobile {
+        display: block;
     }
     #invitation a {
         padding: 10px 35px;
@@ -2791,7 +2754,8 @@ ul.double-angle li:before {
     #couple .hero-heart {
         top: 335px;
     }
-    .hero #countdown {
+
+    #couple-scroll {
         display: none;
     }
     /* Story */
